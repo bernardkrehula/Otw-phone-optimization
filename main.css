@@ -1,0 +1,32 @@
+body {
+  
+}
+.row{
+    width: fit-content !important;
+    margin-left: 0 !important;
+    padding-left: 15px !important;
+}
+.small-12{
+    width: fit-content !important; 
+}
+.gwt-TextBox{
+    width: 150px !important;
+}
+.small-2 columns{
+    float: left !important;
+}
+button.small, .button.small{
+    font-size: 1rem !important;
+}
+.gwt-CheckBox{
+    display: flex !important;
+}
+.column, .columns{
+    padding-left: 0px !important;
+}
+.small-2{
+    width: 300px !important;
+}
+.small-12 .row{
+    padding-left: 0px !important;
+}
